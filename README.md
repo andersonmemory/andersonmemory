@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andersonmemory)](https://git.io/streak-stats)
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=andersonmemory260)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=andersonmemory260&theme=hacker)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 
 ---
